@@ -4,7 +4,7 @@
 
 Étant donné une fonction fn, renvoyez une version mémorisée de cette fonction.
 
-## Resolution Process
+## Processus de résolution
 
 ### 1 - Problème Posé
 

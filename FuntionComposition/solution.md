@@ -4,7 +4,7 @@
 
 Étant donné un tableau de fonctions [f1, f2, f3, ..., fn], renvoyer une nouvelle fonction fn qui est la composition fonctionnelle du tableau de fonctions.
 
-## Resolution Process
+## Processus de résolution
 
 ### 1 - Problème Posé
 

@@ -9,7 +9,7 @@ La fonction limitée dans le temps doit suivre les règles suivantes :
 Si la fonction fn se termine dans le délai de t millisecondes, la fonction limitée dans le temps doit résoudre l'exécution avec le résultat.
 Si l'exécution de la fonction fn dépasse le délai, la fonction limitée dans le temps doit rejeter l'exécution avec la chaîne « Délai dépassé ».
 
-## Resolution Process
+## Processus de résolution
 
 ### 1 - Problème Posé
 

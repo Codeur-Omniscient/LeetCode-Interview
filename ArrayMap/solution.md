@@ -6,7 +6,7 @@
 Le tableau renvoyé doit être créé de telle sorte que returnedArray[i] = fn(arr[i], i).
 Veuillez résoudre ce problème sans la méthode Array.map intégrée.
 
-## Resolution Process
+## Processus de résolution
 
 ### 1 - Problème Posé
 

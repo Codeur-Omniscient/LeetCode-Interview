@@ -12,7 +12,7 @@ L'ordre de chaque liste de valeurs doit correspondre à l'ordre d'apparition des
 
 Veuillez résoudre ce problème sans la fonction \_.groupBy de lodash.
 
-## Resolution Process
+## Processus de résolution
 
 ### 1 - Problème Posé
 
